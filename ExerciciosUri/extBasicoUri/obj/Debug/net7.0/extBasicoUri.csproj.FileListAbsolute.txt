@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\bin\Debug\net7.0\extBasicoUri.exe
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\bin\Debug\net7.0\extBasicoUri.deps.json
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\bin\Debug\net7.0\extBasicoUri.runtimeconfig.json
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\bin\Debug\net7.0\extBasicoUri.dll
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\bin\Debug\net7.0\extBasicoUri.pdb
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.dll
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\refint\extBasicoUri.dll
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.pdb
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\extBasicoUri.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extBasicoUri\obj\Debug\net7.0\ref\extBasicoUri.dll

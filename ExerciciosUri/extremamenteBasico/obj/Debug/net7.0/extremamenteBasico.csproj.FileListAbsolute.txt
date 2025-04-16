@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\bin\Debug\net7.0\extremamenteBasico.exe
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\bin\Debug\net7.0\extremamenteBasico.deps.json
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\bin\Debug\net7.0\extremamenteBasico.runtimeconfig.json
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\bin\Debug\net7.0\extremamenteBasico.dll
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\bin\Debug\net7.0\extremamenteBasico.pdb
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.dll
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\refint\extremamenteBasico.dll
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.pdb
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\extremamenteBasico.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Área de Trabalho\Álex Cursos\Visual Studio\ExerciciosUri\extremamenteBasico\obj\Debug\net7.0\ref\extremamenteBasico.dll
